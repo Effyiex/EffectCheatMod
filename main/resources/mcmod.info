@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Effect",
+  "name": "Effect",
+  "description": "AutoSprint",
+  "version": "Alpha 0.1",
+  "mcversion": "${mcversion}",
+  "url": "http://www.effyiex.cf",
+  "updateUrl": "",
+  "authorList": ["EffyiexGHG"],
+  "credits": "Nobody, I'm a alone worker :3",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
